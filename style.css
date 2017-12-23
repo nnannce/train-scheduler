@@ -1,0 +1,40 @@
+body { 
+    background-image: url("train.jpg");
+  	top: 0; 
+  	left: 0; 
+  	min-width: 100%;
+ 	min-height: 100%;
+ 	background-position: center center;
+			background-repeat:  no-repeat;
+				background-size:  100%;
+				background-color: green;
+				/*color: white;*/
+
+	color: red;
+
+}
+
+.row {
+	
+	width: 70%;
+	margin: 0 auto;
+	/*background: clear;*/
+
+}
+
+.jumbotron {
+	/*opacity: 0.2;*/
+	background-color: transparent;
+	font-family: 'Mr Bedfort', cursive;
+	font-size: 35px;
+	text-decoration: underline;
+}
+
+.btn {background-color: red;
+border-color: white;
+
+
+}
+
+h3{text-align: center;
+color: black;}
